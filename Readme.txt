@@ -1,5 +1,5 @@
 # Journal Title
-__Blockchain-based Covid Vaccination Registration and Monitoring__
+" Blockchain-based Covid Vaccination Registration and Monitoring "
  
 # Journal Link
 https://doi.org/10.1016/j.bcra.2022.100092
@@ -7,9 +7,8 @@ https://doi.org/10.1016/j.bcra.2022.100092
 # VDHP Site Link
 https://sites.google.com/view/vdhp/
 
-@ To Do:
+# To Do:
 ======
-
 1. Run the ".sol" file in remix IDE or in truffle.
 
 2. After deploying the contracts connect them with each other by their contract addresses. 
@@ -23,6 +22,7 @@ https://sites.google.com/view/vdhp/
 4. Then copy the ABI of the contracts and put them into the specified variable in the java script section of each front end files.
 
 5. Done! Ready to operate from the Front end now...
+======
 
 #####################################################
                                                     #
