@@ -1,5 +1,5 @@
 # Journal Title
-<b> Blockchain-based Covid Vaccination Registration and Monitoring </b>
+<b>Blockchain-based Covid Vaccination Registration and Monitoring</b>
  
 # Journal Link
 https://doi.org/10.1016/j.bcra.2022.100092
