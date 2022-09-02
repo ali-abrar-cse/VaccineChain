@@ -1,5 +1,5 @@
 # VaccineChain
-*****************************************Blockchain-based Covid Vaccination Registration and Monitoring************************************
+************************************Blockchain-based Covid Vaccination Registration and Monitoring************************************
 
 @To Do:
 ======
